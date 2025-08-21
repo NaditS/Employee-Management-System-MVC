@@ -54,7 +54,7 @@ EmployeeManagementSystem/
 │── Database/                      # SQL Scripts & Migrations
 │── Docs/                          # Project Documentation (SRS, ERD, etc.)
 └── README.md                      # Project Documentation
-
+```
 ## 📖 How to Run
 1. Clone the repository:
 
@@ -71,11 +71,11 @@ EmployeeManagementSystem/
 6. Open in browser:
 'http://localhost:5000'  
 
-## 🤝 Contributing
+🤝 Contributing
 
 Contributions are welcome! Please fork the repo, create a feature branch, and submit a pull request.
 
-**## 📩 Contact**
+📩 Contact
 
 For any questions or feedback, reach out via **[nadits007@gmail.com]**.
 
