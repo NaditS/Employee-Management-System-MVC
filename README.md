@@ -80,8 +80,8 @@ Contributions are welcome! Please fork the repo, create a feature branch, and su
 
 ## 📩 Contact
 
-For any questions or feedback, reach out via [nadits007@gmail.com].
+For any questions or feedback, reach out via **[nadits007@gmail.com]**.
 
-🔗 GitHub Repository: Employee Management System
-
+🔗 **GitHub Repository:** Employee Management System
+---
 👨‍💻📊 EMS – Streamlining HR operations with secure and scalable software.
