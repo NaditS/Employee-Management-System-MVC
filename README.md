@@ -41,7 +41,7 @@ The system is designed to support small and medium-sized enterprises (SMEs) with
 - ✅ Data integrity and security following OWASP guidelines
 
 ## 📂 Project Structure
-
+```
 EmployeeManagementSystem/
 │── EmployeeManagementSystem.sln   # Visual Studio Solution File
 │── Backend/                       # .NET Backend Code
