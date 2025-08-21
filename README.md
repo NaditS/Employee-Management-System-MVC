@@ -21,3 +21,20 @@ Bootstrap / Responsive Design – Mobile-first UI
 Git & GitHub – Version control and collaboration
 
 Visual Studio – Development environment
+
+
+## EmployeeManagementSystem/
+│── EmployeeManagementSystem.sln   # Visual Studio Solution File
+
+│── Backend/                       # .NET Backend Code
+
+│   ├── Controllers/               # API Controllers
+
+│   ├── Models/                    # Data Models
+│   ├── Services/                  # Business Logic
+│── Frontend/                      # React/Angular/Vue Frontend
+│   ├── src/                       # Frontend Code
+│   ├── public/                    # Public Assets
+│── Database/                      # SQL Scripts & Migrations
+│── Docs/                          # Project Documentation (SRS, ERD, etc.)
+└── README.md                      # Project Documentation
