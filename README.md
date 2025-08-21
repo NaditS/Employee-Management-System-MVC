@@ -55,8 +55,7 @@ EmployeeManagementSystem/
 │── Docs/                          # Project Documentation (SRS, ERD, etc.)
 └── README.md                      # Project Documentation
 
-## **📖 How to Run**
-
+## 📖 How to Run
 1. Clone the repository:
 ```bash
 [git clone https://github.com/NaditS/EmployeeManagementSystem](https://github.com/NaditS/Employee-Management-System-MVC.git)
@@ -70,10 +69,9 @@ EmployeeManagementSystem/
 5. Start the backend '(.NET API)' and frontend '(npm start' for React / Angular).
 
 6. Open in browser:
-```bash
-http://localhost:5000  
+'http://localhost:5000'  
 
-## 🤝 Contributing
+🤝 Contributing
 
 Contributions are welcome! Please fork the repo, create a feature branch, and submit a pull request.
 
