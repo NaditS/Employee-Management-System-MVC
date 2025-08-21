@@ -10,7 +10,7 @@ The system is designed to support small and medium-sized enterprises (SMEs) with
 
 ## 🛠 Technologies Used
 
-.NET Framework (C#) – Backend logic & REST API
+- .NET Framework (C#) – Backend logic & REST API
 
 SQL Server – Relational database management
 
