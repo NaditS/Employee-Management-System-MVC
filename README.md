@@ -5,14 +5,5 @@ Welcome to the  **Employee Management System (EMS)** project! This repository co
 EMS is a **scalable, secure, and user-friendly application** designed to replace manual HR management processes with an automated system. The application is developed using **.NET (C#)** for backend, **SQL Server** for database management, and a modern **JavaScript framework (React/Angular/Vue)** for the frontend.
 The system is designed to support small and medium-sized enterprises (SMEs) with essential HR operations like employee CRUD, leave management, authentication, and dashboards.
 
-## EmployeeManagementSystem/
-│── EmployeeManagementSystem.sln    # Visual Studio Solution File
-│── Backend/                        # .NET Backend Code
-│   ├── Controllers/                # API Controllers
-│   ├── Models/                     # Data Models
-│   ├── Services/                   # Business Logic
-│── Frontend/                       # React/Angular/Vue Frontend
-│   ├── src/                        # Frontend Code
-│   ├── public/                     # Public Assets
-│── Database/                       # SQL Scripts & Migrations
-│── Docs/                           # Project Documentation (SRS, ERD
+
+  
