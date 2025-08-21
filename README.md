@@ -57,20 +57,20 @@ EmployeeManagementSystem/
 
 ## 📖 How to Run
 
-Clone the repository:
+1. Clone the repository:
  ```bash
 [git clone https://github.com/NaditS/EmployeeManagementSystem](https://github.com/NaditS/Employee-Management-System-MVC.git)
 ```
 
-Open the solution in Visual Studio.
+2. Open the solution in Visual Studio.
 
-Configure the SQL Server Database (update connection string in appsettings.json).
+3. Configure the SQL Server Database (update connection string in appsettings.json).
 
-Run database migrations (if using Entity Framework).
+4. Run database migrations (if using Entity Framework).
 
-Start the backend (.NET API) and frontend (npm start for React / Angular).
+5. Start the backend (.NET API) and frontend (npm start for React / Angular).
 
-Open in browser:
+6. Open in browser:
 
 http://localhost:5000  
 
