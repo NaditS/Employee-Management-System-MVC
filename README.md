@@ -58,7 +58,7 @@ EmployeeManagementSystem/
 
 Clone the repository:
 
-git clone https://github.com/NaditS/EmployeeManagementSystem
+[git clone https://github.com/NaditS/EmployeeManagementSystem](https://github.com/NaditS/Employee-Management-System-MVC.git)
 
 
 Open the solution in Visual Studio.
