@@ -57,16 +57,16 @@ EmployeeManagementSystem/
 ```
 ## 📖 How to Run
 1. Clone the repository:
-
+```
 [git clone https://github.com/NaditS/EmployeeManagementSystem](https://github.com/NaditS/Employee-Management-System-MVC.git)
+```
+2. Open the solution in **Visual Studio**.
 
-2. Open the solution in Visual Studio.
-
-3. Configure the SQL Server Database (update connection string in 'appsettings.json').
+3. Configure the **SQL Server Database** (update connection string in ```appsettings.json```).
 
 4. Run database migrations (if using Entity Framework).
 
-5. Start the backend ```(.NET API)``` and frontend '(npm start' for React / Angular).
+5. Start the backend ```(.NET API)``` and frontend ```(npm start``` for React / Angular).
 
 6. Open in browser:
 ```
@@ -80,6 +80,6 @@ Contributions are welcome! Please fork the repo, create a feature branch, and su
 
 For any questions or feedback, reach out via **[nadits007@gmail.com]**.
 
-🔗 **GitHub Repository:** Employee Management System
+🔗 GitHub Repository: [Employee Management System](https://github.com/NaditS/EmployeeManagementSystem)
 ---
 _👨‍💻📊 EMS – Streamlining HR operations with secure and scalable software_.
