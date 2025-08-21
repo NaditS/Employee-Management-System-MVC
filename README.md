@@ -57,7 +57,7 @@ EmployeeManagementSystem/
 
 ## 📖 How to Run
 1. Clone the repository:
-```bash
+
 [git clone https://github.com/NaditS/EmployeeManagementSystem](https://github.com/NaditS/Employee-Management-System-MVC.git)
 
 2. Open the solution in Visual Studio.
@@ -68,14 +68,14 @@ EmployeeManagementSystem/
 
 5. Start the backend '(.NET API)' and frontend '(npm start' for React / Angular).
 
-6.  integrity and security following OWASP guidelines
+6. Open in browser:
 'http://localhost:5000'  
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Please fork the repo, create a feature branch, and submit a pull request.
 
-## 📩 Contact
+**## 📩 Contact**
 
 For any questions or feedback, reach out via **[nadits007@gmail.com]**.
 
