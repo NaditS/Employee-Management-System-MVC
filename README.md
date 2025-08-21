@@ -66,12 +66,12 @@ EmployeeManagementSystem/
 
 4. Run database migrations (if using Entity Framework).
 
-5. Start the backend '(.NET API)' and frontend '(npm start' for React / Angular).
+5. Start the backend ```(.NET API)``` and frontend '(npm start' for React / Angular).
 
 6. Open in browser:
-
-'http://localhost:5000'  
-
+```
+http://localhost:5000
+```
 🤝 Contributing
 
 Contributions are welcome! Please fork the repo, create a feature branch, and submit a pull request.
