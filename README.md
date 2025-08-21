@@ -28,17 +28,17 @@ The system is designed to support small and medium-sized enterprises (SMEs) with
 
 ## 📌 Features
 
-✅ Secure Login & Authentication (Role-based Access Control)
+- ✅ Secure Login & Authentication (Role-based Access Control)
 
-✅ Employee CRUD operations (Create, Read, Update, Delete)
+- ✅ Employee CRUD operations (Create, Read, Update, Delete)
 
-✅ Leave Management (Apply, Approve, Reject)
+- ✅ Leave Management (Apply, Approve, Reject)
 
-✅ Administrative Dashboard with search & filter
+- ✅ Administrative Dashboard with search & filter
 
-✅ Responsive UI for desktop & mobile
+- ✅ Responsive UI for desktop & mobile
 
-✅ Data integrity and security following OWASP guidelines
+- ✅ Data integrity and security following OWASP guidelines
 
 ## 📂 Project Structure
 EmployeeManagementSystem/
