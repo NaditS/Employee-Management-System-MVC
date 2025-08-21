@@ -62,16 +62,16 @@ EmployeeManagementSystem/
 [git clone https://github.com/NaditS/EmployeeManagementSystem](https://github.com/NaditS/Employee-Management-System-MVC.git)
 ```
 
-2. Open the solution in Visual Studio.
+2. Open the solution in **Visual Studio**.
 
-3. Configure the SQL Server Database (update connection string in appsettings.json).
+3. Configure the **SQL Server Database** (update connection string in 'appsettings.json').
 
 4. Run database migrations (if using Entity Framework).
 
-5. Start the backend (.NET API) and frontend (npm start for React / Angular).
+5. Start the backend '(.NET API)' and frontend '(npm start' for React / Angular).
 
 6. Open in browser:
-
+```bash
 http://localhost:5000  
 
 ## 🤝 Contributing
