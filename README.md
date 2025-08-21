@@ -84,4 +84,4 @@ For any questions or feedback, reach out via **[nadits007@gmail.com]**.
 
 🔗 **GitHub Repository:** Employee Management System
 ---
-👨‍💻📊 EMS – Streamlining HR operations with secure and scalable software.
+_👨‍💻📊 EMS – Streamlining HR operations with secure and scalable software_.
