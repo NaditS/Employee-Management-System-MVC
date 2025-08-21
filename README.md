@@ -60,7 +60,6 @@ EmployeeManagementSystem/
 1. Clone the repository:
  ```bash
 [git clone https://github.com/NaditS/EmployeeManagementSystem](https://github.com/NaditS/Employee-Management-System-MVC.git)
-```
 
 2. Open the solution in **Visual Studio**.
 
