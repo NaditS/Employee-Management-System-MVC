@@ -12,19 +12,19 @@ The system is designed to support small and medium-sized enterprises (SMEs) with
 
 - .NET Framework (C#) – Backend logic & REST API
 
-SQL Server – Relational database management
+- SQL Server – Relational database management
 
-Entity Framework – ORM for database operations
+- Entity Framework – ORM for database operations
 
-JavaScript (React/Angular/Vue) – Frontend interface
+- JavaScript (React/Angular/Vue) – Frontend interface
 
-HTML5 & CSS3 – Structure & styling
+- HTML5 & CSS3 – Structure & styling
 
-Bootstrap / Responsive Design – Mobile-first UI
+- Bootstrap / Responsive Design – Mobile-first UI
 
-Git & GitHub – Version control and collaboration
+- Git & GitHub – Version control and collaboration
 
-Visual Studio – Development environment
+- Visual Studio – Development environment
 
 ## 📌 Features
 
